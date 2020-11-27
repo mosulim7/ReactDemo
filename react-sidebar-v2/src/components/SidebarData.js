@@ -31,4 +31,10 @@ export const SidebarData = [
     icon: <FiIcons.FiSliders className="nav__icon"/>,
     cName: 'nav__link',
   },
+  {
+    title: 'CSR',
+    path: '/csr',
+    icon: <FiIcons.FiSliders className="nav__icon"/>,
+    cName: 'nav__link',
+  },
 ]
